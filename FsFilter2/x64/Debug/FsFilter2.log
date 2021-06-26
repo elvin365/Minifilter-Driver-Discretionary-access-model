@@ -1,0 +1,26 @@
+﻿  Building 'FsFilter2' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\FsFilter2.inf
+  Stamping [Version] section with DriverVer=10/28/2019,12.19.22.812
+C:\Users\Elvin\source\repos2019\FsFilter2\FsFilter2\FsFilter2.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+C:\Users\Elvin\source\repos2019\FsFilter2\FsFilter2\FsFilter2.inf(24-24): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+C:\Users\Elvin\source\repos2019\FsFilter2\FsFilter2\FsFilter2.inf(35-35): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+C:\Users\Elvin\source\repos2019\FsFilter2\FsFilter2\FsFilter2.inf(73-73): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  FsFilter2.c
+  FsFilter2.vcxproj -> C:\Users\Elvin\source\repos2019\FsFilter2\x64\Debug\FsFilter2.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Elvin\source\repos2019\FsFilter2\x64\Debug\FsFilter2.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Elvin\source\repos2019\FsFilter2\x64\Debug\FsFilter2\fsfilter2.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Elvin\source\repos2019\FsFilter2\x64\Debug\FsFilter2\fsfilter2.cat
+  
